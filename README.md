@@ -1,4 +1,4 @@
-# 💕 Sounds$us
+# 💕 Sounds&us
 
 **Sounds$us** é um aplicativo web desenvolvido para casais que desejam guardar e reviver momentos especiais através de fotos, álbuns e músicas.
 
